@@ -9,6 +9,9 @@
         "ca_root_nss",
         "curl"
     ],
+    "properties": {
+       "allow_sysvipc": "1"
+    },
     "packagesite": "http://pkg.cdn.trueos.org/iocage",
     "fingerprints": {
         "iocage-plugins": [
