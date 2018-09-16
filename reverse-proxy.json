@@ -4,7 +4,7 @@
     "artifact": "https://github.com/GaroRobe/iocage-plugin-reverse-proxy.git",
     "pkgs": [
         "nginx",
-        "py27-certbot"
+        "py-certbot"
     ],
     "packagesite": "http://pkg.cdn.trueos.org/iocage",
     "fingerprints": {
