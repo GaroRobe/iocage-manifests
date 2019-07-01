@@ -5,8 +5,8 @@
     "pkgs": [
         "git",
         "python",
-        "py36-sqlite3",
-        "py36-urllib3",
+        "py27-sqlite3",
+        "py27-urllib3",
         "unrar",
         "pyOpenSSL",
         "wget"
