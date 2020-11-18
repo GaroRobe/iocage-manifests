@@ -1,0 +1,10 @@
+{
+    "bind": {
+        "MANIFEST": "lidarr.json",
+        "description": "Lidarr",
+        "icon": "",
+        "name": "Lidarr music download manager",
+        "official": false,
+        "primary_pkg": null
+    },
+}
