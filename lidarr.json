@@ -1,6 +1,6 @@
 {
     "name": "lidarr",
-    "release": "11.2-RELEASE",
+    "release": "12.2-RELEASE",
     "artifact": "https://github.com/GaroRobe/iocage-plugin-lidarr.git",
     "pkgs": [
         "mono",
