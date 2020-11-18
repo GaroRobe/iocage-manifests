@@ -1,6 +1,6 @@
 {
     "name": "reverse-proxy",
-    "release": "12.1-RELEASE",
+    "release": "11.2-RELEASE",
     "artifact": "https://github.com/GaroRobe/iocage-plugin-reverse-proxy.git",
     "pkgs": [
         "nginx"
