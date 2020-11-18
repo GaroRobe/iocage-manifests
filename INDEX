@@ -1,10 +1,18 @@
 {
-    "bind": {
+    "lidarr": {
         "MANIFEST": "lidarr.json",
         "description": "Lidarr",
         "icon": "",
         "name": "Lidarr music download manager",
         "official": false,
         "primary_pkg": null
+    },
+    "reverse-proxy": {
+        "MANIFEST": "reverse-proxy.json",
+        "description": "reverse proxy",
+        "icon": "",
+        "name": "NGINX as reverse proxy",
+        "official": false,
+        "primary_pkg": "nginx"
     }
 }
